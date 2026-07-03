@@ -27,64 +27,64 @@ PASE: “PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination 
 </tr>
 <tr>
 <td style="column-width: 50\%"><strong>Noisy</strong></td>
- <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_noisy'></audio></td>
-<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_noisy'></audio></td>
-<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_noisy'></audio></td>
-<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_noisy'></audio></td>
-<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_noisy'></audio></td>
-<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_noisy'></audio></td>
-<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_noisy'></audio></td>
+ <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_noisy.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_noisy.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_noisy.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_noisy.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_noisy.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_noisy.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_noisy.wav'></audio></td>
 </tr>
 <tr>
  
 </tr>
 <tr>
 <td style="column-width: 50\%"><strong>Reference</strong></td>
- <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_clean'></audio></td>
-<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_clean'></audio></td>
-<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_clean'></audio></td>
-<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_clean'></audio></td>
-<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_clean'></audio></td>
-<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_clean'></audio></td>
-<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_clean'></audio></td>
+ <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_clean.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_clean.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_clean.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_clean.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_clean.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_clean.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_clean.wav'></audio></td>
 </tr>
 <tr>
 <td style="column-width: 50\%"><strong>CVAE</strong></td>
-<td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_cvae'></audio></td>
-<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_cvae'></audio></td>
-<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_cvae'></audio></td>
-<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_cvae'></audio></td>
-<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_cvae'></audio></td>
-<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_cvae'></audio></td>
-<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_cvae'></audio></td>
+<td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_cvae.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_cvae.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_cvae.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_cvae.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_cvae.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_cvae.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_cvae.wav'></audio></td>
 </tr>
 <tr>
 <td style="column-width: 50\%"><strong>LCT-GAN</strong></td>
-<td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_lctgan'></audio></td>
-<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_lctgan'></audio></td>
-<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_lctgan'></audio></td>
-<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_lctgan'></audio></td>
-<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_lctgan'></audio></td>
-<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_lctgan'></audio></td>
-<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_lctgan'></audio></td>
+<td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_lctgan.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_lctgan.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_lctgan.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_lctgan.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_lctgan.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_lctgan.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_lctgan.wav'></audio></td>
 <tr>
 <td style="column-width: 50\%"><strong>PASE</strong></td>
- <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_pase'></audio></td>
-<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_pase'></audio></td>
-<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_pase'></audio></td>
-<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_pase'></audio></td>
-<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_pase'></audio></td>
-<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_pase'></audio></td>
-<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_pase'></audio></td>
+ <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_pase.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_pase.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_pase.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_pase.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_pase.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_pase.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_pase.wav'></audio></td>
 </tr>
 <tr>
 <td style="column-width: 50\%"><strong>Serom (Ours)</strong></td>
-  <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_serom'></audio></td>
-<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_serom'></audio></td>
-<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_serom'></audio></td>
-<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_serom'></audio></td>
-<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_serom'></audio></td>
-<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_serom'></audio></td>
-<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_serom'></audio></td>
+  <td><audio controls><source src='./demo_sample/8463-294828-0022_with_reverb_snr-5_serom.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/7176-92135-0018_no_reverb_snr-5_serom.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/61-70968-0058_with_reverb_snr-5_serom.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/121-127105-0016_with_reverb_snr-5_serom.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/1320-122612-0007_with_reverb_snr-5_serom.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_serom.wav'></audio></td>
+<td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_serom.wav'></audio></td>
 </tr>
    
