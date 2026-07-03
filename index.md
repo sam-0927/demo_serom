@@ -2,7 +2,9 @@
 
 ## Abstract
 
-<img src='architecture_revise.png'>
+<p align="center">
+  <img src="architecture_revise.png" width="600">
+</p>
 
 Recent neural speech enhancement (SE) systems leveraging pre-trained speech self-supervised learning (SSL) models have demonstrated strong performance. However, little attention has been paid to systematically analyzing how representations from different SSL layers can be utilized and how each contributes to SE performance. In this work, using early-layer SSL representations as primary acoustic features, we investigate the effects of incorporating contextual-related information extracted from deeper layer of the same SSL backbone. Experimental results reveal that compact contextual representations play a critical role in improving SE performance. 
 Rather than relying on an embedding-level matching loss, we explicitly train the higher-layer representation with a text prediction loss, which reduces irrelevant information and encourages more informative contextual features for SE. Motivated by these findings, we propose a novel SE framework, termed Serom, which explicitly exploits compressed contextual representations derived from late SSL layers. The resulting representations are integrated through a decoder and converted into enhanced speech using a neural vocoder. Experimental evaluations demonstrate that the proposed approach achieves state-of-the-art performance in terms of speech quality, intelligibility, and speaker similarity.
